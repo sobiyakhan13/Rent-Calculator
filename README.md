@@ -1,7 +1,5 @@
 # Rent-Calculator
-A simple Python program to calculate the amount each person has to pay
-
-for rent, food, and electricity expenses.
+A simple Python program to calculate the amount each person has to pay for rent, food, and electricity expenses.
 
 ## Features
 
@@ -41,9 +39,7 @@ The program asks the user for:
 
 Electricity Bill = Electricity Units × Charge Per Unit
 
-
 Total Bill = Rent + Food + Electricity Bill
-
 
 Amount Per Person = Total Bill ÷ Number of People
 
