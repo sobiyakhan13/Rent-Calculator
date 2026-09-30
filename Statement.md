@@ -1,0 +1,3 @@
+When several people live together in a rented house, they have to share different expenses like rent, electricity, food, and other monthly costs. Calculating everyone’s share manually can be confusing and sometimes lead to mistakes. To make this easier, we are developing a Rent Calculator using Python that calculates the total expenses and shows how much each person needs to pay.
+
+For example, if four students share a rented apartment, the monthly rent is ₹12,000, the electricity bill is ₹2,000, and other expenses are ₹4,000. The total expense would be ₹18,000. The Python program divides this amount among the four students, so each person would have to pay ₹4,500.
